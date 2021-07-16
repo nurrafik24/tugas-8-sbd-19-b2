@@ -4,4 +4,4 @@
 
 Membuat database beserta desainnya
 berikut adalah tampilannya
-![gambar]ss/1.png
+![Gambar]ss/1.png
