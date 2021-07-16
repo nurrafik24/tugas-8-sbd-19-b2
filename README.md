@@ -4,8 +4,8 @@
 
 Membuat database beserta desainnya
 berikut adalah tampilannya
-![Gambar](ss/1.PNG)
+![Gambar 1](ss/1.PNG)
 
 Mengkoneksikan dan menampilkan database
 berikut tampilannya
-![Gambar](ss/2.PNG)
+![Gambar 2](ss/2.PNG)
